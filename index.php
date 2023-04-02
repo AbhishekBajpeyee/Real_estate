@@ -13,8 +13,6 @@
     <link rel="stylesheet" href="csslike.css">
     <script src="indexlike.js"></script>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-
-    
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Bitter:ital,wght@1,200&display=swap');
@@ -132,11 +130,11 @@
 
             </div>
         </div>
-        <form class="d-flex my-3" method="get" role="search" action="mainsearch.php">
-    <input class="form-control" name="search" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-success ms-2" type="submit">Search</button>
-                    
-</form>
+            <form class="d-flex my-3" method="get" role="search" action="mainsearch.php">
+        <input class="form-control" name="search" type="search" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-success ms-2" type="submit">Search</button>
+                        
+    </form>
 
         <div class="row">
             <!-- fetch all the categeory -->
